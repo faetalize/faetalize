@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-// Render the link badges under the README.
-// They're local files in the fairy's colours rather than a badge service, so they match on both
-// themes and don't depend on anyone else's site.
+//render the link badges under the readme.
+//they're local files in the fairy's colours rather than a badge service, so they match on both
+//themes and don't depend on anyone else's site.
 import { writeFileSync } from "node:fs";
 
 const badge = (file, label, width, fill, stroke, colour) =>
