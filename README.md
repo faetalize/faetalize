@@ -1,4 +1,4 @@
-<picture><img src="https://raw.githubusercontent.com/faetalize/fae/output/current.svg" alt="a tiny dark fairy drifting across the page"></picture>
+<picture><img src="https://fae-alpha.vercel.app/current.svg" alt="a tiny dark fairy drifting across the page"></picture>
 
 hi, i'm fæ.
 
