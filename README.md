@@ -5,6 +5,6 @@ hi, i'm fæ.
 i work on **waytator** and **zozo.sh**.
 
 contributor to:<br>
-**linux kernel** • **gtk** • **mesa** • **noctalia**
+**linux kernel** • **gtk** • **mesa** • **niri** • **smithay** • **noctalia**
 
 <a href="https://faetalize.dev"><img src="badges/faetalize-dev.svg" alt="faetalize.dev"></a> <a href="https://osu.ppy.sh/users/faetalize"><img src="badges/osu.svg" alt="osu!"></a>
